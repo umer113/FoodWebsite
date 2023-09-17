@@ -1,6 +1,6 @@
 {
-  "homepage": "https://umer113.github.io/FoodWebsite/",
   "name": "mernapp",
+  "homepage": "https://umer113.github.io/FoodWebsite/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
