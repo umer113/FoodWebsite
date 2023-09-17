@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FoodWebsite/static/css/main.43d6b5aa.css",
-    "main.js": "/FoodWebsite/static/js/main.ef97b23a.js",
-    "static/js/787.7fe0dfbc.chunk.js": "/FoodWebsite/static/js/787.7fe0dfbc.chunk.js",
-    "index.html": "/FoodWebsite/index.html",
-    "main.43d6b5aa.css.map": "/FoodWebsite/static/css/main.43d6b5aa.css.map",
-    "main.ef97b23a.js.map": "/FoodWebsite/static/js/main.ef97b23a.js.map",
-    "787.7fe0dfbc.chunk.js.map": "/FoodWebsite/static/js/787.7fe0dfbc.chunk.js.map"
+    "main.css": "/mernapp/FoodWebsite/static/css/main.43d6b5aa.css",
+    "main.js": "/mernapp/FoodWebsite/static/js/main.8da80ee2.js",
+    "static/js/787.7fe0dfbc.chunk.js": "/mernapp/FoodWebsite/static/js/787.7fe0dfbc.chunk.js",
+    "index.html": "/mernapp/FoodWebsite/index.html",
+    "main.43d6b5aa.css.map": "/mernapp/FoodWebsite/static/css/main.43d6b5aa.css.map",
+    "main.8da80ee2.js.map": "/mernapp/FoodWebsite/static/js/main.8da80ee2.js.map",
+    "787.7fe0dfbc.chunk.js.map": "/mernapp/FoodWebsite/static/js/787.7fe0dfbc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43d6b5aa.css",
-    "static/js/main.ef97b23a.js"
+    "static/js/main.8da80ee2.js"
   ]
 }
