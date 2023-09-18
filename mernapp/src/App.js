@@ -3,7 +3,7 @@ import Home from './screens/Home';
 import Login from './screens/Login';
 import Signup from './screens/Signup';
 import {
-  BrowserRouter as Router,
+  HashRouter,
   Routes,
   Route,
 } from 'react-router-dom';
@@ -15,13 +15,13 @@ import { CartProvider } from './components/ContextReducer';
 function App() {
   return (
     <CartProvider>
-      <Router>
+      <HashRouter>
         <div>
           <Routes>
             <Route exact path="/" element={<Home />} />
             <Route exact path="/login" element={<Login />} />
             <Route exact path="/signup" element={<Signup />} />
-          </Routes>
+          </HashRouter>
         </div>
       </Router>
     </CartProvider>
